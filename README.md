@@ -10,4 +10,4 @@ Here is a collection of blog posts regarding this topic:
 
 "Syntax highlighting is juvenile. When I was a child, I was taught
 arithmetic using colored rods
-[](http://en.wikipedia.org/wiki/Cuisenaire_rods). I grew up and today I use monochromatic numerals."
+[Wikipedia](http://en.wikipedia.org/wiki/Cuisenaire_rods). I grew up and today I use monochromatic numerals." - Rob Pike
