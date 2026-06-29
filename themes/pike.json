@@ -13,8 +13,8 @@
 				"border.selected": "#cbcdf6ff",
 				"border.transparent": "#00000000",
 				"border.disabled": "#d3d3d4ff",
-				"elevated_surface.background": "#F7F7F0FF",
-				"surface.background": "#F7F7F0FF",
+				"elevated_surface.background": "#f4f4ee",
+				"surface.background": "#f4f4ee",
 				"background": "#F4F4ECFF",
 				"element.background": "#ebebecff",
 				"element.hover": "#5c78e23d",
@@ -55,7 +55,7 @@
 				"scrollbar.track.background": "#00000000",
 				"scrollbar.track.border": "#eeeeeeff",
 				"editor.foreground": "#000000FF",
-				"editor.background": "#FEFEF6FF",
+				"editor.background": "#fefef8",
 				"editor.gutter.background": "#FEFEF6FF",
 				"editor.subheader.background": "#F7F7F0FF",
 				"editor.active_line.background": "#DAF2F245",
@@ -219,7 +219,7 @@
 						"font_weight": null
 					},
 					"embedded": {
-						"color": "#242529ff",
+						"color": "#000000FF",
 						"font_style": null,
 						"font_weight": null
 					},
@@ -269,7 +269,7 @@
 						"font_weight": null
 					},
 					"namespace": {
-						"color": "#242529ff",
+						"color": "#000000FF",
 						"font_style": null,
 						"font_weight": null
 					},
@@ -284,8 +284,8 @@
 						"font_weight": null
 					},
 					"predictive": {
-						"color": "#9b9ec6ff",
-						"font_style": "italic",
+						"color": "#000000FF",
+						"font_style": null,
 						"font_weight": null
 					},
 					"preproc": {
@@ -319,17 +319,17 @@
 						"font_weight": null
 					},
 					"punctuation.list_marker": {
-						"color": "#d3604fff",
+						"color": "#000000FF",
 						"font_style": null,
 						"font_weight": null
 					},
 					"punctuation.markup": {
-						"color": "#d3604fff",
+						"color": "#000000FF",
 						"font_style": null,
 						"font_weight": null
 					},
 					"punctuation.special": {
-						"color": "#b92b46ff",
+						"color": "#000000FF",
 						"font_style": null,
 						"font_weight": null
 					},
@@ -374,7 +374,7 @@
 						"font_weight": null
 					},
 					"text.literal": {
-						"color": "#343832FF",
+						"color": "#000000FF",
 						"font_style": "italic",
 						"font_weight": null
 					},
